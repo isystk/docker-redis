@@ -1,0 +1,7 @@
+.DS_Store
+.history
+*.log
+!.gitkeep
+
+# redis
+docker/redis/data
